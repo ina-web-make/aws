@@ -1,3 +1,3 @@
 function sample() {
- window.open('/linktest.html'); 
+ window.open('/testlink.html'); 
 }
