@@ -1,3 +1,3 @@
 function sample() {
- winow.open("linktest.html", "linktet"); 
+ window.open('/linktest.html'); 
 }
